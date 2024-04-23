@@ -1,0 +1,58 @@
+.social-icons {
+    bottom: 0;
+    /* Отступ снизу */
+    left: 0;
+    /* Отступ слева */
+    right: 0;
+    /* Отступ справа */
+    text-align: center;
+    /* Выравнивание внутренних элементов по центру */
+    display: flex;
+    /* Включаем flexbox */
+    justify-content: center;
+    /* Выравнивание элементов по центру внутри flex контейнера */
+}
+
+.telegram-icon {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-image: url('../Icons/Telegram.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-decoration: none;
+}
+
+.vk-icon {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-image: url('../Icons/Vk.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-decoration: none;
+}
+
+.youtube-icon {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-image: url('../Icons/Youtube.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-decoration: none;
+}
+
+.wikipedia-icon {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-image: url('../Icons/Wikipedia.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-decoration: none;
+}

@@ -1,0 +1,24 @@
+.picture {
+    background-image: url("../caca13b02bd4e254fb6d43cf9f32ff31.jpg");
+    background-size: cover;
+    color: white;
+    padding: 50%;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.table {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+th,
+td {
+    padding: 20px;
+    text-align: center;
+}

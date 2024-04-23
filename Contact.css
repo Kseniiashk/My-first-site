@@ -1,0 +1,9 @@
+.picture {
+    background-image: url("../Contact/Котики.png");
+    background-size: cover;
+    color: white;
+    padding: 23%;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+}

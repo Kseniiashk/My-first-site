@@ -1,0 +1,61 @@
+body {
+    background-color: #ffffffdc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text {
+    padding: 50px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.navigation_buttons {
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 17px;
+    margin-right: 42px;
+    cursor: pointer;
+}
+
+.navigation_buttons-logo {
+    height: 53px;
+    width: auto;
+    vertical-align: middle;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+}
+
+.sections {
+    padding: 15px;
+}
+
+.cloud {
+    border: 1px solid #e7f9ff;
+    border-radius: 15px;
+    background-color: #fbfeff;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.leftpic {
+    float: left;
+    margin: 0 0 5px 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 310px
+}
+
+.rightpic {
+    float: right;
+    margin: 0 0 2px 2px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 150px
+}

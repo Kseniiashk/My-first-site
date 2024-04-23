@@ -1,0 +1,17 @@
+.navigation_buttons a {
+    float: left;
+    color: rgb(80, 80, 80);
+    text-align: center;
+    padding: 17px 17px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: #ffffff4b;
+}
+
+.navigation_buttons a:hover {
+    background-color: #8eb5ddc5;
+}
+
+.navigation_buttons a.active {
+    background-color: #8eb5ddc5;
+}
